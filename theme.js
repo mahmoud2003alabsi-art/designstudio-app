@@ -323,7 +323,7 @@
     "studio_cta_title": "استوديو <span class=\"gold\">تحويل التصاميم</span>",
     "studio_cta_subtitle": "أداة احترافية لتحويل ورندر تصاميم Antigravity — ارفع ملف ZIP وحوّله إلى صيغة Export Pro بنقرة واحدة",
     "studio_btn_small": "أداة جديدة",
-    "studio_btn_main": "افتح استوديو التحويل"
+    "studio_btn_main": "افتح القوالب"
 },
     en: {
     "description": "قاموس النصوص المرئية المستخرجة من ملفات HTML للترجمة. تُستخدم المفاتيح بصيغة snake_case إنجليزي.",
@@ -630,7 +630,7 @@
     "studio_cta_title": "Design <span class=\"gold\">Converter Studio</span>",
     "studio_cta_subtitle": "A professional tool to convert and render Antigravity designs — upload a ZIP and convert it to Export Pro format with one click",
     "studio_btn_small": "NEW TOOL",
-    "studio_btn_main": "Open Design Studio"
+    "studio_btn_main": "Open Templates"
 }
   };
 
